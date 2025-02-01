@@ -32,7 +32,7 @@ $exclude_patterns = ['something'];
 1. Set your base URL and configuration options.
 2. Upload to your web server.
 3. Run via:
-   - CLI: `php sitemap-generator.php`
+   - CLI: `php PASG.php`
    - Web browser: visit the script URL.
 
 Generated sitemap saved as `sitemap.xml`.
